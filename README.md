@@ -10,7 +10,9 @@ In der zweiten Lernperiode möchte ich zuerst noch 2 Wochen am Portfolio vom Mod
 
 ## Arbeitspakete für 20.10.2023
 
-- [ ] 
+- [ ] OBA 431
+- [ ] Modul 319 Portfolio HZ1
+- [ ] Modul 319 Portfolio HZ2
 
 | Nummer | Vorbereitung | Eingabe | Erwartete Ausgabe | Erfüllt? |
 | -----: | ------------ | ------- | ----------------- | -------- |
