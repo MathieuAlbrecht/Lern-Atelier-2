@@ -18,6 +18,11 @@ In der zweiten Lernperiode möchte ich zuerst noch 2 Wochen am Portfolio vom Mod
 | -----: | ------------ | ------- | ----------------- | -------- |
 |      1 |              |         |                   |          |
 
-Heute habe ich... (xx Wörter)
+Heute habe ich erfolgreich die OBA für das Modul 431 geschrieben, dies ging recht gut und ich hatte viele ideen zur umsetzung. Ausserdem habe ich das Handlungsziel 1 von Modul 431 erledigt bei dem ich zuerst nicht wirklich voran kam da ich nicht wusste wie ich es genau machen soll. (50 Wörter)
 
 ## Arbeitspakete für 27.10.2023
+
+- [ ] Modul 319 Portfolio abschliessen
+- [ ] Modul 319 Portfolio abschliessen
+- [ ] Programmierprojekt Planung
+- [ ] programmierprojekt anfangen
