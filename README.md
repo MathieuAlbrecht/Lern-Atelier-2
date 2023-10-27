@@ -26,3 +26,9 @@ Heute habe ich erfolgreich die OBA für das Modul 431 geschrieben, dies ging rec
 - [ ] Modul 319 Portfolio abschliessen
 - [ ] Programmierprojekt Planung
 - [ ] programmierprojekt anfangen
+
+Heute habe ich am Modul 319 das Handlungsziel 3 gemacht, was mir recht gut gegangen ist, bei den Handlungszielen 4,5 hatte ich noch Schwierigkeiten und es gab mehr zu tun, als ich gedacht habe, weshalb diese mehr Zeit in Anspruch genommen haben. Weil ich mehr Zeit gebraucht habe und Joel und Christian auch, haben wir beschlossen, das Programmierprojekt erst nächste Woche zu beginnen. (63 Wörter)
+
+- [ ] Programmierprojekt Planung
+- [ ] Programmierprojekt beginnen
+
