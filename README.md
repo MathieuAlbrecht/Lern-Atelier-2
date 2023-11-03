@@ -35,3 +35,4 @@ Heute habe ich am Modul 319 das Handlungsziel 3 gemacht, was mir recht gut gegan
 Heute habe ich mit Christian und Joel die Planung gemacht für den Budgetplaner. Wir haben die Arbeitsaufteilung, unsere Anforderungen an das Programm und 2 Meilensteine gemacht. Wir starten voraussichtlich am Montag mit dem Programmieren des Budgetplanners. Danach habe ich noch Hausaufgaben für das Modul 162 gemacht und generell noch ein wenig für das Modul 162 nachgearbeitet. (56 Wörter)
 
 - [ ] 
+
