@@ -34,7 +34,12 @@ Heute habe ich am Modul 319 das Handlungsziel 3 gemacht, was mir recht gut gegan
 
 Heute habe ich mit Christian und Joel die Planung gemacht für den Budgetplaner. Wir haben die Arbeitsaufteilung, unsere Anforderungen an das Programm und 2 Meilensteine gemacht. Wir starten voraussichtlich am Montag mit dem Programmieren des Budgetplanners. Danach habe ich noch Hausaufgaben für das Modul 162 gemacht und generell noch ein wenig für das Modul 162 nachgearbeitet. (56 Wörter)
 
-- [ ]  Einarbeit in Winforms
-- [ ] Grund Programm erstellen
+- [x]  Einarbeit in Winforms
+- [x] Kreisdiagramm in Winforms einfügen
 - [ ] Genaue Arbeitsverteilung
 
+Heute habe ich als Erstes in meiner VM Visual Studio eingerichtet, dann habe ich in Winforms ein Kreisdiagramm eingefügt, welches ich versucht habe, dass es aus einem Array die Daten bezieht für die Einteilung des Diagramms. Was ich bisher noch nicht geschafft habe. Dieses Diagramm würden wir bei unserem Budgetplaner benötigen, um grafisch aufzuzeigen, wie viel die Person, wofür in einem bestimmten Zeitraum ausgegeben hat.
+
+- [ ] Kreisdiagramm mit Array verbinden
+- [ ] Neues Projekt definieren
+- [ ] Modul 162 Nacharbeiten
