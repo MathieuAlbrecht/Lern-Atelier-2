@@ -47,6 +47,11 @@ Heute habe ich als Erstes in meiner VM Visual Studio eingerichtet, dann habe ich
 - [ ] Neues Projekt definieren
 - [ ] Modul 162 Nacharbeiten
 
+Heute habe ich beim Modul 162 die Arbeitsaufträge 6907 und 6908 fertiggestellt, da ich sie am Mittwoch nicht fertiggeschaft habe. Ich habe auch wieder versucht das Kreisdiagramm mit einer Textdatei zu verbinden, dafür habe ich verschiedenste Tutorials im Internet angeschaut, aber bei mir ist es bisher nicht gelungen. Ich habe mich nun dazu entschieden, dass ich gerne ein Tic-Tac-Toe programmieren möchte.
+
+<img width="1010" alt="Bildschirmfoto 2023-11-17 um 16 37 55" src="https://github.com/MathieuAlbrecht/Lern-Atelier-2/assets/142606710/18f50fa7-cded-41d6-9003-ceb229cbd269">
+
+
 ## Arbeitspakete für 24.11.2023
-- [ ] 
-- [ ] 
+- [ ] Am Montag werden wir in der Gruppe bestimmen, ob und was wir am Freitag im Lernatelier machen werden für unser Programmierprojekt
+- [ ] Tic-Tac-Toe beginnen und Planen
