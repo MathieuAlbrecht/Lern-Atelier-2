@@ -55,3 +55,11 @@ Heute habe ich beim Modul 162 die Arbeitsaufträge 6907 und 6908 fertiggestellt,
 ## Arbeitspakete für 24.11.2023
 - [ ] Am Montag werden wir in der Gruppe bestimmen, ob und was wir am Freitag im Lernatelier machen werden für unser Programmierprojekt
 - [ ] Tic-Tac-Toe beginnen und Planen
+
+Heute habe ich zuerst mit meiner Gruppe 2 Codes vom Programmierprojekt zusammengeführt. Ich habe im Modul 162 den Auftrag 6909 Fertiggestellt. Ausserdem habe ich heute eine neue VM installiert, da meine alte nicht mehr funktioniert hat und auch nicht alle Funktionen hat. Dies war nötig, da Winforms nicht auf dem Mac funktioniert.(52 Wörter)
+
+## Arbeitspakete für 01.12.2023
+- [ ] Modul 162 Aufträge die ich noch nicht fertiggelöst habe fertiglösen.
+- [ ] Schwierige Aufträge nochmals lösen.
+- [ ] OBA für Modul 162.
+
