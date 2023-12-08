@@ -71,6 +71,7 @@ Heute habe ich im Modul 162 die Aufträge 6902 (DatenCharakterisieren) und 6950 
 - [ ] OBA 162 Daten darstellen
 
 Diese Woche habe ich am Sonntag vorgearbeitet, da wir DSL haben. Ich habe eine Tabelle ausgewählt, die den Bestand der Güterfahrzeuge vom Jahre 1950 bis zum Jahre 2022 vergleicht. Ich habe die OBA für das Modul 162 fertiggestellt. Ich habe die Daten, aufbereitet, ausgewertet und dargestellt (Diagramme), danach habe ich noch ein Fazit und eine Reflexion geschrieben.(57 Wörter)
+Link zur OBA: https://portfolio.bbbaden.ch/view/view.php?t=c126b061242c9d64b80b 
 
 ## Arbeitspakete für 15.12.20223
 - [ ] AoC lösen
