@@ -63,8 +63,15 @@ Heute habe ich zuerst mit meiner Gruppe 2 Codes vom Programmierprojekt zusammeng
 - [ ] Schwierige Aufträge nochmals lösen.
 - [ ] OBA für Modul 162.
 
-Heute habe ich im Modul 162 die Aufträge 6902 (DatenCharakterisieren) und 6950 (Gesamtrepetition). Danach habe ich die OBA des Modul 162 zum Thema Mobilität und Verkehr der Schweiz bei dem ich die Daten aufbereitet, ausgewertet und dargestellt habe. Als letztes habe ich mit meiner Gruppe noch letzte änderungen vom Programmierprojekt gemacht und den Code auf Github gestellt.(57 Wörter)
+Heute habe ich im Modul 162 die Aufträge 6902 (DatenCharakterisieren) und 6950 (Gesamtrepetition). Danach habe ich die OBA des Modul 162 zum Thema Mobilität und Verkehr der Schweiz angefangen. Als letztes habe ich mit meiner Gruppe noch letzte änderungen vom Programmierprojekt gemacht und den Code auf Github gestellt.(57 Wörter)
 
+## Arbeitspakete für 08.12.2023
+- [ ] OBA 162 Daten aufbereiten
+- [ ] OBA 162 Daten auswerten
+- [ ] OBA 162 Daten darstellen
+
+Diese Woche habe ich am Sonntag vorgearbeitet, da wir DSL haben. Ich habe eine Tabelle ausgewählt, die den Bestand der Güterfahrzeuge vom Jahre 1950 bis zum Jahre 2022 vergleicht. Ich habe die OBA für das Modul 162 fertiggestellt. Ich habe die Daten, aufbereitet, ausgewertet und dargestellt (Diagramme), danach habe ich noch ein Fazit und eine Reflexion geschrieben.(57 Wörter)
+
+## Arbeitspakete für 15.12.20223
 - [ ] AoC lösen
 - [ ] Tic-Tac-Toe erste Funktionen hinzufügen
-
