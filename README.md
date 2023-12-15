@@ -74,5 +74,4 @@ Diese Woche habe ich am Sonntag vorgearbeitet, da wir DSL haben. Ich habe eine T
 Link zur OBA: https://portfolio.bbbaden.ch/view/view.php?t=c126b061242c9d64b80b 
 
 ## Arbeitspakete für 15.12.20223
-- [ ] AoC lösen
 - [ ] Tic-Tac-Toe erste Funktionen hinzufügen
