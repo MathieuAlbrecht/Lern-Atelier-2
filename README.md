@@ -73,5 +73,12 @@ Heute habe ich im Modul 162 die Aufträge 6902 (DatenCharakterisieren) und 6950 
 Diese Woche habe ich am Sonntag vorgearbeitet, da wir DSL haben. Ich habe eine Tabelle ausgewählt, die den Bestand der Güterfahrzeuge vom Jahre 1950 bis zum Jahre 2022 vergleicht. Ich habe die OBA für das Modul 162 fertiggestellt. Ich habe die Daten, aufbereitet, ausgewertet und dargestellt (Diagramme), danach habe ich noch ein Fazit und eine Reflexion geschrieben.(57 Wörter)
 Link zur OBA: https://portfolio.bbbaden.ch/view/view.php?t=c126b061242c9d64b80b 
 
-## Arbeitspakete für 15.12.20223
-- [ ] Tic-Tac-Toe erste Funktionen hinzufügen
+## Arbeitspakete für 15.12.2023
+- [ ] Tic-Tac-Toe
+- [ ] Modul 164 Auftrag 7703
+
+Heute habe ich als Erstes mein Tic-Tac-Toe angefangen und Christian hat sich mir angeschlossen und wir haben es zu zweit programmiert, da ich es schwieriger eingeschätzt habe, als es dann war, habe ich das Programm heute schon fertig gekriegt als Konsolenanwendung. Danach habe ich noch den Auftrag 7703 aus dem Modul 164 fertiggestellt, ich war am Mittwoch nicht so weit gekommen, wie wir sollten, weil ich mit dem MacBook nicht dieselben Programme nutzen kann und ich ein wenig Probleme beim Einrichten der Datenbank hatte. (86 Wörter)
+
+## Arbeitspakete für 22.12.2023
+- [ ] aoC zu lösen probieren
+- [ ] Aufträge vom Modul 164 beenden
