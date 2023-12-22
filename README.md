@@ -82,3 +82,8 @@ Heute habe ich als Erstes mein Tic-Tac-Toe angefangen und Christian hat sich mir
 ## Arbeitspakete für 22.12.2023
 - [ ] Aufträge im Modul 117 fertig lösen
 - [ ] Aufträge vom Modul 164 beenden
+
+Heute habe ich nur Aufträge gelöst und nicht wirklich programmiert. Ich musste in den beiden Modulen 164 und 117 noch Aufträge nachholen die ich während des Unterrichts diese woche nicht geschafft habe. Für das Modul 164 habe ich die Aufträge 7709 und 7710 bearbeitet. Im Modul 117 habe ich den Auftrag 1714 erledigt. (53 Wörter)
+
+
+
