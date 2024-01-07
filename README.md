@@ -86,6 +86,6 @@ Heute habe ich als Erstes mein Tic-Tac-Toe angefangen und Christian hat sich mir
 Heute habe ich nur Aufträge gelöst und nicht wirklich programmiert. Ich musste in den beiden Modulen 164 und 117 noch Aufträge nachholen die ich während des Unterrichts diese woche nicht geschafft habe. Für das Modul 164 habe ich die Aufträge 7709 und 7710 bearbeitet. Im Modul 117 habe ich den Auftrag 1714 erledigt. (53 Wörter)
 
 
-##Reflexion
+## Reflexion
 In der zweiten Lernperiode des Lernateliers habe ich wieder oft an Modulen gearbeitet, da diese schwieriger wurden und ich daher nicht immer im Unterricht damit fertig wurde. Ich habe auch einen Portfoliobeitrag für die OBA im Modul 162 gemacht, da wir nicht wirklich Zeit für diesen während des Moduls bekommen haben. Ausserdem habe ich auch ein paar male am Programmierprojekt der IMS gearbeitet und meine Gruppe wollte dadurch weiterkommen. In dieser Lernperiode konnte ich realistischere Arbeitspakete schreiben, auch wenn ich mich manchmal kurzfristig für etwas anderes entschieden habe, wären meine Arbeitspakete meist gut erreichbar gewesen und nicht viel zu viel oder viel zu wenig. In der Lernperiode 3 könnte ich immer noch Dinge verbessern, wie zum Beispiel:
 Ich möchte ein grösseres Projekt in Angriff nehmen, für welches ich mehrere Wochen Zeit benötige. (131 Wörter)
